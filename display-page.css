@@ -1,0 +1,60 @@
+body{
+	max-width: 800px;
+	max-height: 500px;
+	margin: auto;
+}
+.topbox{
+	margin-top: 90px;
+}
+
+
+.greenbox{
+	
+	height: 200px;
+	width: 50%;
+	background: green;
+	border: 1px solid black;
+	
+	float: left;
+}
+.bluebox{
+	
+	height: 200px;
+	width: 50%;
+	background: blue;
+	border: 1px solid black;
+	float: right;
+
+
+}
+.box{
+	display: inline-block;
+}
+
+.greybox{
+	
+	height: 300px;
+	width: 33.33%;
+	background: grey;
+	border: 1px solid black;
+	
+	float: left;
+}
+.blackbox{
+	
+	height: 300px;
+	width: 33.33%;
+	background: black;
+	border: 1px solid black;
+	
+
+}
+.orangebox{
+	
+	height: 300px;
+	width: 33.33%;
+	background: orange;
+	border: 1px solid black;
+	
+	float: right;
+}
